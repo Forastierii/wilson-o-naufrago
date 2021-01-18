@@ -6,7 +6,7 @@ Ajude Wilson a escrever cartas convincentes e enviá-las à sua família, atrav�
 Mas apresse-se, do contrário os perigos da ilha podem lhe custar a vida.
 
 ENGLISH: Wilson, the castway
-Wilson decided to drink and drive his airpline. Bad idea!
+Wilson decided to drink wine and drive his airpline. Bad idea!
 He ended up crashing his plane on a desert island, full of snakes! Yikes!
 Now he needs to send a message to his family of his whereabouts.
 Since Wilson does not have a very heartwarming relationship with his relatives, he has to convince his family
