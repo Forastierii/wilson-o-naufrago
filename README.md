@@ -14,4 +14,4 @@ Since Wilson does not have a very heartwarming relationship with his relatives, 
 to come pick him up. Help him write letters and send them inside his wine bottles.
 But remember to keep our friend hydrated and away from the snakes!
 
-This game is part of the first project from the IronHack course, to create a game using tools learned on the past 4 days of studies (Classes, Functions/Methods, Parameters, For/While loops, If-Else, etc.) Being my first project with Python I decided to explore the functional paradigm for characters statuses just like an old-school RPG.
+This game is part of the first project from the IronHack course, to create a game using tools learned on the past 4 days of studies (Classes, Functions/Methods, Parameters, For/While loops, If-Else, etc.) I decided to explore the functional paradigm for characters statuses just like an old-school RPG.
